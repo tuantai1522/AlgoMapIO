@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/jewels-and-stones/
+# https://leetcode.com/problems/contains-duplicate/
 
 """
 + First step: To build set based on ouput list
